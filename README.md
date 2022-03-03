@@ -14,7 +14,7 @@ Procedure to operate:
 
 ## Main Application
 
-![App Screenshot](https://github.com/pratikmore2796/laravel-vue-spa-challenge/img/mainapplication.png)
+![App Screenshot](https://github.com/PratikMore2796/laravel-vue-spa-challenge.git/img/mainapplication.png)
 
 
 ## Login
