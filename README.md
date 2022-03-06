@@ -14,35 +14,35 @@ Procedure to operate:
 
 ## Main Application
 
-![App Screenshot](https://github.com/PratikMore2796/laravel-vue-spa-challenge/img/mainapplication.png)
+![App Screenshot](img/mainapplication.png)
 
 
 ## Login
-![App Screenshot](https://github.com/pratikmore2796/laravel-vue-spa-challenge/img/Login.png)
+![App Screenshot](img/Login.png)
 ## Registration
 
-![App Screenshot](https://github.com/pratikmore2796/laravel-vue-spa-challenge/img/Registration.png)
+![App Screenshot](img/Registration.png)
 
 ## Database
 
-![App Screenshot](https://github.com/pratikmore2796/laravel-vue-spa-challenge/img/Database.png)
+![App Screenshot](img/Database.png)
 
 ## ToDO Task
 
-![App Screenshot](https://github.com/pratikmore2796/laravel-vue-spa-challenge/img/Dashboard.png)
+![App Screenshot](img/Dashboard.png)
 
 ## Tasks Detail Screenshot
 
-![App Screenshot](https://github.com/pratikmore2796/laravel-vue-spa-challenge/img/NewTask.png)
+![App Screenshot](img/NewTask.png)
 
-![App Screenshot](https://github.com/pratikmore2796/laravel-vue-spa-challenge/img/addedtodatabase.png)
+![App Screenshot](img/addedtodatabase.png)
 
-![App Screenshot](https://github.com/pratikmore2796/laravel-vue-spa-challenge/img/TaskCompleted.png)
+![App Screenshot](img/TaskCompleted.png)
 
-![App Screenshot](https://github.com/pratikmore2796/laravel-vue-spa-challenge/img/newtaskadded.png)
-![App Screenshot](https://github.com/pratikmore2796/laravel-vue-spa-challenge/img/newtaskaddedindb.png)
-![App Screenshot](https://github.com/pratikmore2796/laravel-vue-spa-challenge/img/oldtaskdeleted.png)
-![App Screenshot](https://github.com/pratikmore2796/laravel-vue-spa-challenge/img/oldtaskdeletedfromdb.png)
+![App Screenshot](img/newtaskadded.png)
+![App Screenshot](img/newtaskaddedindb.png)
+![App Screenshot](img/oldtaskdeleted.png)
+![App Screenshot](img/oldtaskdeletedfromdb.png)
 
 ## Task2 Description
 
@@ -53,8 +53,8 @@ It helped me to verify the token and generate the api/results url.
 The screenshot is attached below.
 ## Task2 Error Screenshot
 
-![App Screenshot](https://github.com/pratikmore2796/laravel-vue-spa-challenge/img/errorintask2.png)
+![App Screenshot](img/errorintask2.png)
 
 ## Task2 Completed
 
-![App Screenshot](https://github.com/pratikmore2796/laravel-vue-spa-challenge/img/Task2Completed.png)
+![App Screenshot](img/Task2Completed.png)
